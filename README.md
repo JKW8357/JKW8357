@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="http://mazandi.herokuapp.com/api?handle=jkw8357&theme=warm"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jkw8357"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jkw8357"/>
+    <img src="http://mazandi.herokuapp.com/api?handle=jkw8357&theme=warm"/>
+</div>
