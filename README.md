@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="http://mazandi.herokuapp.com/api?handle=jkw8357&theme=warm"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jkw8357"/>
